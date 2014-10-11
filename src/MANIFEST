@@ -1,0 +1,10 @@
+allPaths.db
+currDirList.db
+dropSite.py
+extpathstore.py
+setup.py
+systray.qrc
+systray_rc.py
+transaction.db
+images\folder.ico
+images\folder.svg
